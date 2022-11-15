@@ -1,0 +1,2 @@
+# Palindrome-birthday 
+ using vanillajs
